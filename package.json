@@ -1,0 +1,23 @@
+{
+  "name": "@bingumd/parcel-transformer-twig",
+  "version": "0.1.0",
+  "description": "Parcel v2 transformer plugin for twigjs",
+  "engines": {
+    "node": ">= 12.0.0",
+    "parcel": "^2.0.0"
+  },
+  "main": "index.js",
+  "keywords": [
+    "parcel",
+    "parcel-transformer",
+    "parcel-plugin",
+    "twig"
+  ],
+  "repository": "git://github.com/bingumd/parcel-transformer-twig.git",
+  "author": "bingumd <bingumd@gmail.com>",
+  "dependencies": {
+    "@parcel/plugin": "^2.7.0",
+    "glob": "^8.0.3",
+    "twig": "^1.15.4"
+  }
+}

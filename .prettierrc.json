@@ -1,0 +1,17 @@
+{
+  "trailingComma": "es5",
+  "tabWidth": 4,
+  "semi": false,
+  "singleQuote": true,
+  "bracketSpacing": true,
+  "arrowParens": "avoid",
+  "proseWrap": "always",
+  "overrides": [
+    {
+      "files": ["*.scss", "*.css"],
+      "options": {
+        "singleQuote": false
+      }
+    }
+  ]
+}
